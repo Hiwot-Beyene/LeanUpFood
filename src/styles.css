@@ -1,0 +1,5 @@
+ /* we can use tailwind on its own or as a plugin */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
